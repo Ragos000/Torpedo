@@ -1,0 +1,20 @@
+{
+  "version": "0.1.0",
+  "name": "Torpedo",
+  "description": "A battleship game",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/img/icons/icon.png"
+  },
+  "developer": {
+    "name": "Alex Setényi",
+    "url": "http://www.u-szeged.hu/"
+  },
+  "type": "privileged",
+  "permissions": {},
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "en",
+"orientation": [ "landscape-primary" ]
+}
